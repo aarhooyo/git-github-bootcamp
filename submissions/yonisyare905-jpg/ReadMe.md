@@ -1,1 +1,0 @@
-# This is my Assignment 1 for the git and github bootcamp
